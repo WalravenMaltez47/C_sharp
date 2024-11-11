@@ -6,13 +6,20 @@ public class Pagamento
 
     public void ReadType()
     {
-        while (true)
+        bool validador = false; 
+        while (!validador)
         {
             Console.WriteLine("Enter payment type (bitcoin or cash):");
-            if (Enum.TryParse(Console.ReadLine(), true, out EPaymentType paymentType))
+            string input = Console.ReadLine();
+            
+            if (double.TryParse(input, out _)) 
+            {
+                Console.WriteLine("Invalid payment type. Please enter 'bitcoin' or 'cash'.");
+            }
+            else if (Enum.TryParse(input, true, out EPaymentType paymentType))
             {
                 Type = paymentType;
-                break; 
+                validador = true; 
             }
             else
             {
@@ -23,19 +30,18 @@ public class Pagamento
 
     public void ReadAmount()
     {
-        while (true)
+        bool validador = false;
+        while (!validador)
         {
             Console.WriteLine("Enter payment amount:");
             if (double.TryParse(Console.ReadLine(), out var amount)) 
             {
                 Amount = amount;
-                break;
-                
+                validador = true; 
             }
-
             else
             {
-                Console.WriteLine("Invalid amount type.");
+                Console.WriteLine("Invalid amount type."); 
             }
         }
     }
