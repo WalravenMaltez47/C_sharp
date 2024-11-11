@@ -2,6 +2,7 @@
 
 public class Wallet(double initialAmount)
 {
+<<<<<<< HEAD
     public double Amount { get; private set; } = initialAmount;
     
     public void ProcessPayment(Pagamento pagamento)
@@ -25,15 +26,27 @@ public class Wallet(double initialAmount)
     }
 
     private bool Withdraw(double amount)
+=======
+    public double Amount { get; set; } = initialAmount;
+
+    public double Withdraw(double amount)
+>>>>>>> origin/main
     {
         if (amount <= 0 || amount > Amount)
         {
             throw new ArgumentException("Invalid withdrawal amount.");
         }
+<<<<<<< HEAD
         else
         {
             Amount -= amount;
             return true;
         }
     }
+=======
+        
+        return Amount -= amount; 
+    }
+    
+>>>>>>> origin/main
 }
