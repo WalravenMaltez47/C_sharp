@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\pamal\\RiderProjects\\Wallet-e-Pagamento\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
@@ -13,19 +12,6 @@
         "projectPath": "C:\\Users\\pamal\\RiderProjects\\Wallet-e-Pagamento\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\pamal\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\pamal\\RiderProjects\\Wallet-e-Pagamento\\ConsoleApp\\obj\\",
-=======
-    "C:\\Users\\pamal\\RiderProjects\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\pamal\\RiderProjects\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\pamal\\RiderProjects\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
-        "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\pamal\\RiderProjects\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\pamal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pamal\\RiderProjects\\ConsoleApp\\ConsoleApp\\obj\\",
->>>>>>> origin/main
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pamal\\AppData\\Roaming\\NuGet\\NuGet.Config",

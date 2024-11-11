@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "8Fq46Nj6rdo=",
   "success": true,
   "projectFilePath": "C:\\Users\\pamal\\RiderProjects\\Wallet-e-Pagamento\\ConsoleApp\\ConsoleApp.csproj",
-=======
-  "dgSpecHash": "svLlaJTpYfs=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\pamal\\RiderProjects\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
->>>>>>> origin/main
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\pamal\\RiderProjects\\Wallet-e-Pagamento\\ConsoleApp\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
