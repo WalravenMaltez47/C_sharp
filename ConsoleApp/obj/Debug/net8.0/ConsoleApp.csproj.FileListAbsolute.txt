@@ -12,6 +12,7 @@ C:\Users\pamal\RiderProjects\ConsoleApp\ConsoleApp\obj\Debug\net8.0\refint\Conso
 C:\Users\pamal\RiderProjects\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
 C:\Users\pamal\RiderProjects\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\pamal\RiderProjects\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+<<<<<<< HEAD
 C:\Users\pamal\RiderProjects\Wallet-e-Pagamento\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
 C:\Users\pamal\RiderProjects\Wallet-e-Pagamento\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
 C:\Users\pamal\RiderProjects\Wallet-e-Pagamento\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
@@ -27,3 +28,5 @@ C:\Users\pamal\RiderProjects\Wallet-e-Pagamento\ConsoleApp\obj\Debug\net8.0\refi
 C:\Users\pamal\RiderProjects\Wallet-e-Pagamento\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
 C:\Users\pamal\RiderProjects\Wallet-e-Pagamento\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\pamal\RiderProjects\Wallet-e-Pagamento\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+=======
+>>>>>>> origin/main
